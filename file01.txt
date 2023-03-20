@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 asdaa
+=======
+asdas
+asdasf
+>>>>>>> dev
